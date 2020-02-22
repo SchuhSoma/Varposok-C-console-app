@@ -1,0 +1,7 @@
+﻿Város,Ország,Népesség
+Shanghai;Kína;23,740778
+Beijing;Kína;20,383994
+Chongqing;Kína;13,331579
+Guangzhou;Kína;12,45813
+Tianjin;Kína;11,210329
+Shenzhen;Kína;10,749473
